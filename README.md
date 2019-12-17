@@ -18,4 +18,8 @@ Simple App that renders a list of fetched blog posts to screen, making use of th
 
 ## Tech Used
 
-The app was created with React, Redux, Redux Thunk, Axios and Semantic UI
+-   React
+-   Redux
+-   Redux Thunk
+-   Axios
+-   Semantic UI
